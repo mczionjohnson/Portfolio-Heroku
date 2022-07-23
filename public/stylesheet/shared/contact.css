@@ -1,0 +1,15 @@
+.contact-wrapper {
+    text-align: center;
+    margin-top: 7rem;
+    margin-bottom: 3rem;
+}
+
+.contact-text {
+    margin-bottom: 1rem;
+}
+
+.contact-link {
+    color: white;
+    text-decoration: none;
+    margin: 0 1rem;
+}

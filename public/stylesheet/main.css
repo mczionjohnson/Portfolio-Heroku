@@ -1,0 +1,28 @@
+@import 'shared/fonts.css';
+@import 'shared/form.css';
+@import 'shared/button.css';
+@import 'shared/header.css';
+@import 'shared/first.css';
+@import 'shared/about.css';
+@import 'shared/project.css';
+@import 'shared/contact.css';
+@import 'shared/footer.css';
+
+
+
+:root {
+    font-family: 'Gotham Rounded';
+    font-size: 20px;
+    /* color: var(--color-text-light); */
+}
+
+body {
+    font-family: 'Gotham Rounded';
+    font-size: 20px;
+
+
+}
+
+.container-fluid {
+    padding: 0;
+}

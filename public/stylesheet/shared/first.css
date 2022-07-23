@@ -1,0 +1,14 @@
+.name-card {
+    /* display: block; */
+    /* margin: auto; */
+    display: grid;
+    justify-content: center;
+    /* align-items: center; */
+    padding: 5rem;
+    /* margin-bottom: 2rem; */
+}
+
+.name-card-auto {
+    margin: auto;
+    margin-bottom:2rem;
+}

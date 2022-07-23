@@ -1,0 +1,23 @@
+.about-me-lg {
+    display: grid;
+    justify-content: center;
+    /* margin: 2rem 0; */
+}
+
+.about-me-sm {
+    background-color: black;
+    /* display: grid;
+    justify-content: center; */
+    width: 1200px;
+    height: 650px;
+    border-radius: 1rem;
+    padding: 3rem 7rem;
+}
+
+.about-me-head {
+    margin-bottom: 1rem;
+}
+
+.about-me-text {
+    padding: 1rem 0;
+}

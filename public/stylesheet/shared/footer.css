@@ -1,0 +1,18 @@
+.footer-wrapper{
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+    margin-bottom: 0;
+    padding: 1rem 0;
+}
+
+.footer-text {
+    font-size: 15px;
+}
+
+.footer-link {
+    color: white;
+    text-decoration: none;
+    margin-left: 1rem;
+    font-size: 10px;
+}
