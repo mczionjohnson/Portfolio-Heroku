@@ -19,5 +19,5 @@ app.use('/contact', require('./routes/contact'))
 app.use('/about', require('./routes/about')) 
 
 
-app.listen(3000, () =>
+app.listen(process.env.PORT || 3000, () =>
     console.log("API running now"))
