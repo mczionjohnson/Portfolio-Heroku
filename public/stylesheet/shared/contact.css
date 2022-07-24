@@ -6,6 +6,14 @@
 
 .contact-text {
     margin-bottom: 1rem;
+    color: white;
+    text-decoration: none;
+    font-size: 40px;
+}
+
+.contact-first {
+    margin-bottom: 2rem;
+
 }
 
 .contact-link {
