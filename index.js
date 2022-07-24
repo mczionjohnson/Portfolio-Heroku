@@ -17,7 +17,6 @@ app.use(cookieParser())
 
 app.use('/', require('./routes/first')) 
 app.use('/project', require('./routes/project')) 
-app.use('/contact', require('./routes/contact')) 
 app.use('/about', require('./routes/about')) 
 
 
