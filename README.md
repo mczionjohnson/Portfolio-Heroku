@@ -19,9 +19,9 @@ You can start editing the route by modifying `route/first.js`. The page auto-upd
 
 ## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+To learn more about Node.js, take a look at the following resources:
 
-- [Node.js Documentation](https://nodejs.org/en/docs/) - learn about Next.js features and API.
+- [Node.js Documentation](https://nodejs.org/en/docs/) - learn about Node.js features and API.
 
 
 
@@ -30,4 +30,4 @@ To learn more about Next.js, take a look at the following resources:
 
 The easiest way to deploy your Node.js app is to use the [Heroku Platform](https://devcenter.heroku.com/)
 
-Check out our [Next.js deployment documentation](https://devcenter.heroku.com/articles/getting-started-with-nodejs) for more details.
+Check out [Heroku deployment documentation](https://devcenter.heroku.com/articles/getting-started-with-nodejs) for more details.
