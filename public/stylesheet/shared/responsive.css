@@ -65,6 +65,10 @@
 
     }
 
+    .span-text {
+        font-size: 12px;
+    }
+
     .contact-wrapper {
         /* text-align: center; */
         margin: 1rem 0;
