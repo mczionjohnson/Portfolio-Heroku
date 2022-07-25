@@ -10,6 +10,10 @@
     
     }
 
+    .name-card {
+        padding: 1rem 2rem;
+    }
+
     .name-card-text {
         font-size: 20px;
     }
@@ -21,8 +25,18 @@
 
     .about-me-sm {
         height: 300px;
-        width: 400px;
+        width: 350px;
         padding: .5rem;
+    }
+
+   .about-me-header{
+        font-size: 15px;
+        margin-bottom: 0;
+    }
+
+    .break-text {
+        display: none;
+    
     }
 
     .about-me-text {
@@ -30,10 +44,7 @@
         padding: 0;
     }
 
-    .about-me-header{
-        font-size: 15px;
-        margin-bottom: 0;
-    }
+ 
 
     .project-header {
         font-size: 20px;
@@ -41,8 +52,8 @@
 
     .project-wrapper {
         display: grid;
-        height: 600px;
-        width: 400px; 
+        /* height: 500px; */
+        width: 380px; 
     }
 
     .project-card {
