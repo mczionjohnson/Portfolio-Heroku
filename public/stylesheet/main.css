@@ -7,6 +7,7 @@
 @import 'shared/project.css';
 @import 'shared/contact.css';
 @import 'shared/footer.css';
+@import 'shared/responsive.css';
 
 
 
@@ -26,3 +27,4 @@ body {
 .container-fluid {
     padding: 0;
 }
+

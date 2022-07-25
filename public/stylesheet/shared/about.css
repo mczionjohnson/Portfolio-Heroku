@@ -1,6 +1,7 @@
 .about-me-lg {
     display: grid;
     justify-content: center;
+    padding-top: 1rem;
     /* margin: 2rem 0; */
 }
 
@@ -14,7 +15,7 @@
     padding: 3rem 7rem;
 }
 
-.about-me-head {
+.about-me-header {
     margin-bottom: 1rem;
 }
 

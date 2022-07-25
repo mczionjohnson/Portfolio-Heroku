@@ -8,7 +8,8 @@
     /* margin-bottom: 2rem; */
 }
 
-.name-card-auto {
+.name-card-text {
     margin: auto;
     margin-bottom:2rem;
+    padding-top: 1rem;
 }
