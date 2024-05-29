@@ -1,5 +1,5 @@
 const express = require("express")
-var cookieParser = require('cookie-parser')
+// var  Parser = require(' -parser')
 const expressLayouts = require('express-ejs-layouts')
 
 
@@ -12,12 +12,12 @@ app.set('layout', 'layouts/layout')
 // app.use(express.json())
 app.use(expressLayouts)
 app.use(express.static('public'))
-app.use(cookieParser())
+// app.use(cookieParser())
 
 
 app.use('/', require('./routes/first')) 
-app.use('/project', require('./routes/project')) 
-app.use('/about', require('./routes/about')) 
+// app.use('/project', require('./routes/project')) 
+// app.use('/about', require('./routes/about')) 
 
 
 
