@@ -11,6 +11,7 @@ body {
   padding-top: 1rem;
   background: #0f52ba;
   color: hsl(200, 100%, 90%);
+  min-height: 100vh;
 }
 
 .name-card {

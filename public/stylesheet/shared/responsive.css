@@ -24,7 +24,7 @@
     padding: 0;
     background: black;
     color: #808080;
-    min-height: 100vh;
+    /* min-height: 100vh; */
   }
 
   .navbar-nav ul a {
@@ -112,8 +112,8 @@
   }
 
   .footer-wrapper {
-    margin-top: 0;
-    /* flex-direction: row; */
+    margin-top: 10px;
+
   }
 
   .footer-text,
