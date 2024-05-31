@@ -1,18 +1,18 @@
 .about-me-lg {
-    display: grid;
+    /* display: grid; */
     justify-content: center;
     padding-top: 1rem;
     /* margin: 2rem 0; */
 }
 
 .about-me-sm {
-    background-color: black;
+    /* background-color: black; */
     /* display: grid;
     justify-content: center; */
-    width: 1200px;
-    height: 650px;
+    /* width: 1200px;
+    height: 650px; */
     border-radius: 1rem;
-    padding: 3rem 7rem;
+    padding: 0 5rem;
 }
 
 .about-me-header {

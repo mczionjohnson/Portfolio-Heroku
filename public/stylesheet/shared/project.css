@@ -1,44 +1,44 @@
 .project-header {
-    display: flex;
-    justify-content: center;
-    padding-top: 1rem;
-    font-size: 40px;
+  display: flex;
+  justify-content: center;
+  padding-top: 1rem;
+  font-size: 40px;
 }
 
 .project-wrapper {
-    display: flex;
-    margin: auto;
-    padding: 1rem;
-    /* width: 1400px;
-    height: 320px; */
+  display: flex;
+  margin: auto;
+  padding: 1rem;
+  justify-content: center;
+  /* /* width: 1400px; */
+  /* height: 320px; */
 }
 .project-card {
-    /* flex: 0 0 25%; */
-    /* max-width: 25%; */
-    justify-content: center;
-    background-color: white;
-    color: black;
-    border-radius: 1rem;
-    padding: 1rem;
-    margin-left: .5rem;
+  /* flex: 0 0 25%; */
+  max-width: 25%;
+  background-color: white;
+  color: black;
+  border-radius: 1rem;
+  padding: 1rem;
+  margin-left: 0.5rem;
 }
 
 .project-name {
-    font-size: 30px
+  font-size: 30px;
 }
 
 .span-text {
-    font-size: 15px;
-    padding: .5rem 0;
+  font-size: 15px;
+  padding: 0.5rem 0;
 }
 
-
 .project-text {
-    font-size: 15px;
+  font-size: 15px;
 }
 
 .card-link {
-    color: black;
-    text-decoration: none;
-    margin: 0 1rem;
+  color: black;
+  text-decoration: none;
+  margin: 0 1rem;
+  font-size: 0.5rem
 }
