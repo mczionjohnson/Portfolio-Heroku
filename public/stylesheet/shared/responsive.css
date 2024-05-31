@@ -24,6 +24,7 @@
     padding: 0;
     background: black;
     color: #808080;
+    min-height: 100vh;
   }
 
   .navbar-nav ul a {
@@ -118,11 +119,12 @@
   .footer-text,
   .footer-mail {
     /* margin: auto; */
-    font-size: 15px;
+    font-size: 10px;
   }
 }
 
 @media only screen and (max-width: 600px) {
+
   .navbar-nav ul a {
     font-size: 10px;
     color: #808080;
