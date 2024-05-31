@@ -1,10 +1,25 @@
 /* Responsiveness */
-@media only screen and (max-width: 600px) {
-  /* body {
-    background: black;
-    color: #808080;
-  } */
+@media only screen and (max-width: 1024px) {
+  .about-me-sm {
+    width: 350px;
+    padding: 1rem;
+  }
 
+  .name-card-text {
+    font-size: 2rem;
+  }
+
+  .name-card-role {
+    font-size: 1rem;
+  }
+
+  .about-me-text {
+    font-size: 0.8rem;
+
+  }
+}
+
+@media only screen and (max-width: 768px) {
   .container-fluid {
     padding: 0;
     background: black;
@@ -68,19 +83,14 @@
   }
 
   .project-header {
-    font-size: 20px;
+    font-size: 15px;
     padding: 0;
-  }
-
-  .project-wrapper {
-    display: grid;
-    /* height: 280px; */
-    width: 280px;
   }
 
   .project-card {
     /* margin: auto; */
     margin-bottom: 1rem;
+    /* max-width: 50%; */
   }
 
   .project-name {
@@ -97,35 +107,41 @@
   }
 
   .fa-2x {
-    font-size: 1em;
+    font-size: 1.5em;
   }
-  /* .span-text {
-    font-size: 12px;
-  } */
-
-  .contact-wrapper {
-    /* text-align: center; */
-    margin: 1rem 0;
-  }
-
-  .contact-text {
-    /* text-align: center; */
-    margin-top: 2rem;
-    font-size: 20px;
-  }
-  /* 
-  .footer-link {
-    display: none;
-  } */
 
   .footer-wrapper {
     margin-top: 0;
-    flex-direction: column;
+    /* flex-direction: row; */
   }
 
   .footer-text,
   .footer-mail {
-    margin: auto;
+    /* margin: auto; */
     font-size: 15px;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .navbar-nav ul a {
+    font-size: 10px;
+    color: #808080;
+  }
+
+  .project-wrapper {
+    display: grid;
+    /* height: 280px; */
+    width: 280px;
+  }
+
+  .project-card {
+    margin: auto;
+    margin-bottom: 1rem;
+    max-width: 100%;
+  }
+  .footer-text,
+  .footer-mail {
+    /* margin: auto; */
+    font-size: 10px;
   }
 }
